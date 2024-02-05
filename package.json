@@ -1,0 +1,15 @@
+{
+  "name": "githubactionstest",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --reporter=html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/ui": "^1.2.2",
+    "vitest": "^1.2.2"
+  }
+}
