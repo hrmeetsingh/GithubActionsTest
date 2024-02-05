@@ -1,2 +1,2 @@
-# GithubActionsTest
-kk
+## GithubActionsTest
+[Test report here](https://hrmeetsingh.github.io/GithubActionsTest)
